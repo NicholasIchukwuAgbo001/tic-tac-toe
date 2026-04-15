@@ -2,7 +2,7 @@ import React from "react";
 import { StyleSheet, Text } from "react-native";
 
 const GameTitle: React.FC = () => {
-  return <Text style={styles.title}>Tic Tac To</Text>;
+  return <Text style={styles.title}>Tic Tac Toe</Text>;
 };
 
 const styles = StyleSheet.create({
